@@ -3,7 +3,6 @@
 This repository contains modified PostgreSQL source files implementing
 **Bloom filter–based semi-join optimization** and extended **join support**
 for foreign relations, developed as part of **CS631 –  Implementation techniques in DBMS**.
-
 ---
 
 ## Project Summary
